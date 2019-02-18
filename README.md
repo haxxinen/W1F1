@@ -8,6 +8,7 @@
 - drivers and other software dependencies
   - Linux tools
   - RTL88xxAU drivers for Linux & macOS
+- protocol notes
 
 
 #### 02. Interface management
