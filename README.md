@@ -62,6 +62,11 @@
   - interactive packet replay & ARP request replay
 
 
+#### 88. Methodology
+- assessment checklist
+- github projects
+
+
 #### 99. Scripts
 - `iwmon.sh`: WLAN interface management tool.
 - `wifiscan.sh`: Scan for Wi-Fi access points.
