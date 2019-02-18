@@ -1,7 +1,7 @@
 # Topics
 
 
-#### 01. Setup
+### 01. Setup
 - usable Wi-Fi cards and specs
   - Alfa AWUS036ACH / AWUS036H
   - TP-Link TL-WN722N
@@ -11,7 +11,7 @@
 - protocol notes
 
 
-#### 02. Interface management
+### 02. Interface management
 - get info about plugged-in Wi-Fi cards
   - available interfaces (mode/channel)
   - available frequencies & capabilities
@@ -30,7 +30,7 @@
 - discover hidden AP (no SSID broadcasting)
 
 
-#### 4. Connect to AP / create AP
+### 4. Connect to AP / create AP
 - connect to WPA2 enabled AP via wpa_supplicant
 - stable connection to AP on 5GHz via *rtlXX12au* driver
 - create AP via Docker container
@@ -38,7 +38,7 @@
 - increase transmission power (TX)
 
 
-#### 5. Common attacks
+### 5. Common attacks
 - deauth attack
   - based on white/black lists
   - targeted / broadcast
@@ -62,12 +62,12 @@
   - interactive packet replay & ARP request replay
 
 
-#### 88. Methodology
+### 88. Methodology
 - assessment checklist
 - github projects
 
 
-#### 99. Scripts
+### 99. Scripts
 - `iwmon.sh`: WLAN interface management tool.
 - `wifiscan.sh`: Scan for Wi-Fi access points.
 - `wpsscan.sh`: WPS scanner for Wi-Fi APs.
