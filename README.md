@@ -1,7 +1,5 @@
 # Topics
 
-WiFi can be a very complex topic - here is the big picture of has been compiled so far (work in progress).
-
 
 #### 01. Setup
 - usable Wi-Fi cards and specs
