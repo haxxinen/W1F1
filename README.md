@@ -61,6 +61,11 @@
   - create packets w/o the WEP key
   - interactive packet replay & ARP request replay
 
+### 77. MacOS notes for WiFi
+- interface info
+- scanning for APs (`airport` and WiFi Explorer Pro)
+- interact with Access Point (connect / disconnect / AP info)
+- script `macos_wifiscan.sh`: Scan WiFi APs and get a signal coverage by range.
 
 ### 88. Methodology
 - assessment checklist
