@@ -61,6 +61,10 @@
   - create packets w/o the WEP key
   - interactive packet replay & ARP request replay
 
+### 66. Windows notes for WiFi
+- create AP with PSK
+- find stored PSK for specific AP
+
 ### 77. MacOS notes for WiFi
 - interface info
 - scanning for APs (`airport` and WiFi Explorer Pro)
